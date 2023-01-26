@@ -7,7 +7,7 @@ Software Developer
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [lbujalil@gmail.com](mailto:lbujalil@gmail.com)
 * 🚀  I'm currently working on [Open Flights Database](http://github.com/zobuj/OpenFlights-CS225-FinalProject)
-* 🧠  I'm learning FPGA Design
+* 🧠  I'm learning AI/ML
 
 ### Skills
 
